@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">AplicationMobileProject1</string>
+    <string name="nama">Muhammad Ghozi Al Ghifari</string>
+    <string name="nim">20210140053</string>
+    <string name="btn1">Button</string>
+    <string name="btn2">Button 1</string>
+    <string name="btn3">Button 2</string>
+    <string name="btn4">MATCH PARENT</string>
+    <string name="btnright">Right</string>
+    <string name="btnleft">Left</string>
+    <string name="submit">Submit</string>
+    <string name="hintadd">Enter Your Address</string>
+    <string name="hintnum">Enter Your Phone Number</string>
+    <string name="hintnam">Enter Your Name</string>
+    <string name="Name">Name</string>
+    <string name="Phone">Phone</string>
+    <string name="Address">Address</string>
+    <string name="slct">Select Your MotorCycle</string>
+    <string name="lambo">Lamborghini</string>
+    <string name="aven">Aventador</string>
+    <string name="buy">Buy Now!</string>
 </resources>
